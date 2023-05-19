@@ -1,12 +1,12 @@
 # 如何注册香港appleID
 ## 一、F墙到香港:
 推荐几个T子
- dt666.xyz/#/register?code=Ca3csSXf 
+[灯塔](https://dt666.xyz/#/register?code=Ca3csSXf)
 
- console.fs-ca.com/#/register?code=6SzgWd3t
 
- justmysocks.net/members/aff.php?aff=26016
- 
+[faston](https://console.fs-ca.com/#/register?code=6SzgWd3t)
+
+
  通过T子F墙后，查看IP是否是香港，查询地址: [查询当前IP](https://browserleaks.com/ip)
  ## 二、注册香港的appleID：
 PS:经过测试，不用翻墙也可以注册香港的账号，需要在国家或地区选择：香港
